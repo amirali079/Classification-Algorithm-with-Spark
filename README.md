@@ -1,1 +1,1 @@
-# LogisticRegression-with-Spark
+# LogisticRegression-and-SVM-with-Spark
